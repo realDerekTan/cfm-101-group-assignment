@@ -1,4 +1,4 @@
 # cfm-101-group-assignment
-derek yuqian jeff
 
-jeff test changes
+Team Number: 3
+Team Members: Derek Yuqian Jeff
